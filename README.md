@@ -1,2 +1,1 @@
-# coursera-test
-This is my first repository
+coursera-test
